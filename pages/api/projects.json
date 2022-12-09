@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Amazon Clone",
+    "image": "https://imgur.com/kbGs6zH.png",
+    "description": "Amazon Clone created with vanilla javascript and with add to cart functionality",
+    "tags": ["HTML","CSS","Javascript","Firebase"],
+    "source_code": "https://github.com/RaghavenderSingh/Amazon-Clone",
+    "demo": ""
+  },
+  {
+    "id": 2,
+    "name": "To do list",
+    "image": "https://imgur.com/tAZotn3.png",
+    "description": "To do list where you can add daily task",
+    "tags": ["HTML","CSS","Javascript","Firebase"],
+    "demo": "https://github.com/RaghavenderSingh/To-do-list"
+  },
+  {
+    "id": 3,
+    "name": "Rock Paper Scissors Game",
+    "image": "https://imgur.com/8FFqaX8.png",
+    "description": "",
+    "tags": ["HTML","CSS","Javascript","Firebase"],
+    "source_code": "https://github.com/RaghavenderSingh/Rock-paper-Scissors",
+    "demo": ""
+  },
+  {
+    "id": 4,
+    "name": "VSCode Portfolio",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["next", "css-modules"],
+    "source_code": "",
+    "demo": ""
+  },
+  {
+    "id": 2,
+    "name": "Netflix Clone",
+    "image": "https://imgur.com/tAZotn3.png",
+    "description": "Netflix Clone Playable Trailers and Various genres",
+    "tags": ["react"],
+    "demo": "https://github.com/RaghavenderSingh/netflix"
+  }
+]
